@@ -1,9 +1,8 @@
-*** Now run 'gdb' in another window.
 
 xv6 kernel is booting
 
-hart 2 starting
 hart 1 starting
+hart 2 starting
 init: starting sh
 $ primes
 prime 2
@@ -19,4 +18,4 @@ prime 29
 prime 31
 $ echo OK
 OK
-$ qemu-system-riscv64: terminating on signal 15 from pid 955 (make)
+$ qemu-system-riscv64: terminating on signal 15 from pid 5258 (make)
