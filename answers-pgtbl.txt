@@ -1,0 +1,3 @@
+Name : Ahmed Mohamed Ahmed Hassan
+Id: 120210113
+My Answer is : Other xv6 system calls like write and read could be faster using a shared page. The shared page can eliminate copying data between user space and kernel space by directly accessing shared memory. This reduces overhead and speeds up data transfer operations.
